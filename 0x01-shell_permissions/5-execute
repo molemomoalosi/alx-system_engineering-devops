@@ -1,2 +1,2 @@
 #!/bin/bash
-chmox 700 hello
+chmod 755 hello
