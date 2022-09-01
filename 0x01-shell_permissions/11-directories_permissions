@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find . d ugo+x {} \;
+sudo find . d ugo+x {} \
