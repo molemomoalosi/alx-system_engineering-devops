@@ -1,6 +1,2 @@
 #!/bin/bash
-for passwd in etc
-do
-cat passwrd
-done
-	    #whatever you need with "$file"
+cat /etc/passwd
