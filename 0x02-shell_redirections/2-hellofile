@@ -1,2 +1,6 @@
 #!/bin/bash
-cat etc/passwd
+for passwd in etc
+do
+cat passwrd
+done
+	    #whatever you need with "$file"
